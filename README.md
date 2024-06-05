@@ -9,10 +9,15 @@ This repository contains the implementation of a pipeline for generating artisti
 ## Sample Output
 Below are some examples of the artistic style transfers applied using StyleGAN3. These examples demonstrate the potential of the project for creators interested in AI-generated art and blockchain technology.
 
-![image](https://github.com/emrehangorgec/GANsNFTs/assets/54534150/b1a76bc4-9d96-4786-90dc-7742c4b3a66e)
-Prompt: “An adorable Yorkshire Terrier playing in a vibrant garden filled with colorful flowers and green grass. The dog is small, with a shiny, silky coat and a neatly trimmed haircut. It is playfully chasing butterflies under a sunny, clear blue sky.”
+Prompt: "A close-up portrait of a Scottish Fold cat with an expressive face and folded ears prominently displayed. The cat has a soft, silver-blue coat and deep, thoughtful eyes. The background is a simple, muted color to keep the focus on the intricate details of the cat’s fur and unique features."
 
-![image](https://github.com/emrehangorgec/GANsNFTs/assets/54534150/dab7aeb3-d878-40ae-9183-5ebd3d1c50a2)
+
+![rocco_cubism](https://github.com/emrehangorgec/GANsNFTs/assets/54534150/fe3f4dec-3717-493c-845f-011e226789a3)
+
+----------------------------------------------------------------------------------------------------------
+
+![image_4](https://github.com/emrehangorgec/GANsNFTs/assets/54534150/434e8679-7acc-4e4a-a9ac-c9d6e2a94f89)
+
 
 The model that is trained with the Cubism dataset from [WikiArt](https://www.kaggle.com/datasets/steubk/wikiart) can be found in the following link:
 [Cubism 256x256, pretrained model](https://www.kaggle.com/datasets/emrehangrge/cubism256x256-stylegan3)
